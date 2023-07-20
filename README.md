@@ -1,4 +1,4 @@
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-project-1884980-1597918.png" width="100%" height="400"><br>
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-project-1884980-1597918.png" width="100%" height="300"><br>
 <h1 align="center">Hi 👋, I'm Aniruddh Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
