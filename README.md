@@ -1,6 +1,6 @@
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-project-1884980-1597918.png" width="100%" height="300"><br>
-<h1 align="center">Hi 👋, I'm Aniruddh Kumar</h1>
-<h3 align="center">A passionate software developer from India</h3>
+<h1 align="center">Hi 👋, I'm Aniruddh Kumar.</h1>
+<h3 align="center">Pursuing Bachelor of Engineering in Computer Science from Chandigarh University.</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anik1006&label=Profile%20views&color=0e75b6&style=flat" alt="anik1006" /> </p>
