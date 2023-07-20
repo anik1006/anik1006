@@ -1,4 +1,4 @@
-<img src="https://d1m75rqqgidzqn.cloudfront.net/wp-data/2022/06/23123829/iStock-1258130006.jpg" width="100%"><br>
+<img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-project-1884980-1597918.png" width="100%" height="400"><br>
 <h1 align="center">Hi 👋, I'm Aniruddh Kumar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
