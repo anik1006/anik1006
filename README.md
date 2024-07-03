@@ -40,8 +40,8 @@
   <a href="https://auth.geeksforgeeks.org/user/aniruddhkumar583" target="_blank">
     <img
       height="30"
-      src="https://cp-logo.vercel.app/geeksforgeeks/aniruddhkumar583?logo=true"
       alt="Aniruddh's GeeksForGeeks"
+      src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"
     >
   </a>
 </div>
@@ -63,10 +63,6 @@
 <div style="display: flex; flex-wrap: wrap;">
   <img
     src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&ogoColor=white"
-    style="margin: 5px;"
-  />
-  <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
     style="margin: 5px;"
   />
   <img
