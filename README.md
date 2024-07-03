@@ -1,54 +1,41 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-<img align="right" img height="25" src="https://komarev.com/ghpvc/?username=rahullgupta&style=for-the-badge" />
+<img align="right" img height="25" src="https://komarev.com/ghpvc/?username=anik1006&style=for-the-badge" />
 
 <p>
-  I'm Rahul Kumar Gupta, a 3rd year Computer Science Undergraduate at Chandigarh University. 
+  I'm Aniruddh Kumar, pursuing a Bachelor of Engineering in Computer Science from Chandigarh University. 
   
-  I am interested in Web Development and Blockchain. 
+  I am interested in Web Development and Data Structures and Algorithms (DSA). 
   
-  I also like solving problems and so I have a keen interest in competitive programming. 
+  I also enjoy solving problems and have a keen interest in competitive programming. 
   
   There is much to learn, many problems to brainstorm and code, many bugs to fix and many pull requests to make. Happy to connect, work and learn with all the amazing people in the world. 
   
-  Skills: Python, C++, HTML/CSS/Javascript, React, MongoDB, NodeJs. 
+  Skills: DSA, HTML, CSS, JavaScript, ReactJS, PHP. 
   
-  Interests: Open Source, Blockchain, Python, Web Development.
+  Interests: Open Source, Web Development, Competitive Programming.
 </p>
 
 <div>
-  <a href="https://www.linkedin.com/in/rahul-kumar-gupta-01/" target="_blank">
+  <a href="https://www.linkedin.com/in/aniruddh1006/" target="_blank">
     <img
       height="25"
-      alt="Rahul's LinkedIn"
+      alt="Aniruddh's LinkedIn"
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     >
   </a>
-  <a href="https://www.codechef.com/users/rahulgupta01" target="_blank">
+  <a href="https://www.leetcode.com/aniruddhkumar583" target="_blank">
     <img
       height="25"
-      src="https://cp-logo.vercel.app/codechef/rahulgupta01?logo=true"
-      alt="Rahul's CodeChef"
-    >
-  <a href="https://codeforces.com/profile/rahulkumargupta" target="_blank">
-    <img
-      height="25"
-      src="https://cp-logo.vercel.app/codeforces/rahulkumargupta?logo=true"
-      alt="Rahul's Codeforces"
+      src="https://cp-logo.vercel.app/leetcode/aniruddhkumar583?logo=true"
+      alt="Aniruddh's LeetCode"
     >
   </a>
-  <a href="https://leetcode.com/rahulgupta01/" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/aniruddhkumar583" target="_blank">
     <img
       height="25"
-      src="https://cp-logo.vercel.app/leetcode/rahulgupta01?logo=true"
-      alt="Rahul's LeetCode"
-    >
-  </a>
-  <a href="mailto: rahulslg20@gmail.com" target="_blank">
-    <img
-      height="25"
-      alt="Rahul's Gmail "
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      src="https://cp-logo.vercel.app/geeksforgeeks/aniruddhkumar583?logo=true"
+      alt="Aniruddh's GeeksForGeeks"
     >
   </a>
 </div>
@@ -56,13 +43,13 @@
 <h3>LeetCode Stats:</h3>
 
 <div>
-  <img width="45%" src="https://leetcard.jacoblin.cool/rahulgupta01?theme=nord" />
+  <img width="45%" src="https://leetcard.jacoblin.cool/aniruddhkumar583?theme=nord" />
 </div>
 
 <h3>GeeksForGeeks Stats:</h3>
 
 <div>
-  <img width="38%" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=rahulslg20" />
+  <img width="38%" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=aniruddhkumar583" />
 </div>
 
 <h3>Languages and Tools:</h3>
@@ -94,7 +81,10 @@
 
 <h3>📈 My GitHub Stats:-</h3>
 <div>
-  <img width="47%" src="https://streak-stats.demolab.com?user=rahullgupta&theme=onedark" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=rahullgupta&show_icons=true&theme=onedark" />
+  <img width="47%" src="https://streak-stats.demolab.com?user=anik1006&theme=onedark" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=anik1006&show_icons=true&theme=onedark" />
 </div>
-<img width="40%" style="margin: 5px 30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahullgupta&layout=compact&theme=onedark" />
+<img width="40%" style="margin: 5px 30%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anik1006&layout=compact&theme=onedark" />
+
+
+Replace the placeholders with your actual information and ensure that all the links are correct. Let me know if you need any further adjustments!
