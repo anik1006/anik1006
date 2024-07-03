@@ -11,9 +11,9 @@
   
   There is much to learn, many problems to brainstorm and code, many bugs to fix and many pull requests to make. Happy to connect, work and learn with all the amazing people in the world. 
   
-  Skills: DSA, HTML, CSS, JavaScript, ReactJS, PHP. 
+  Technical Skills: C/C++, Data Structures and Algorithms, HTML, CSS, JavaScript, ReactJS, NodeJs, MongoDb , SQL, Operating System, Database Management System, Object Oriented Programming. 
   
-  Interests: Open Source, Web Development, Competitive Programming.
+  
 </p>
 
 <div>
