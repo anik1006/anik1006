@@ -19,11 +19,11 @@
 </p>
 
 <p>
-  <strong>Technical Skills:</strong> C/C++, Java (beginner), Data Structures and Algorithms, HTML, CSS, JavaScript, ReactJS, Material UI, Node.js, MongoDB, SQL, Operating System, Database Management System, Object-Oriented Programming.
+  <strong>Technical Skills:</strong> C/C++, Java , Data Structures and Algorithms, HTML, CSS, JavaScript, ReactJS, Material UI, SQL, Operating System, Database Management System, Object-Oriented Programming.
 </p>
 
 <p>
-  <strong>Currently Learning:</strong> Java backend frameworks to further enhance my development skills.
+  <strong>Currently Learning:</strong> Java backend framework (Spring) to further enhance my development skills.
 </p>
 
 <div>
