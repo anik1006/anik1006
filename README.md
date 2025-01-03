@@ -3,7 +3,7 @@
 <img align="right" img height="25" src="https://komarev.com/ghpvc/?username=anik1006&style=for-the-badge" />
 
 <p>
-  <strong>I am Aniruddh Kumar, a 2024 graduate with a Bachelor of Engineering in Computer Science from Chandigarh University.</strong>
+  <strong>I am Aniruddh Kumar, a Software Engineer at TCS and a 2024 graduate with a Bachelor of Engineering in Computer Science from Chandigarh University.</strong>
 </p>
 
 <p>
@@ -11,15 +11,19 @@
 </p>
 
 <p>
-  I also enjoy solving problems and have a keen interest in competitive programming. 
+  I enjoy solving problems and have a keen interest in competitive programming.  
 </p>
 
 <p>
-  There is much to learn, many problems to brainstorm and code, many bugs to fix, and many pull requests to make. I am happy to connect, work, and learn with all the amazing people in the world.
+  There is so much to learn, many problems to brainstorm and code, countless bugs to fix, and exciting pull requests to make. I am thrilled to connect, collaborate, and learn with all the amazing people around the globe.
 </p>
 
 <p>
-  <strong>Technical Skills:</strong> C/C++, Data Structures and Algorithms, HTML, CSS, JavaScript, ReactJS, Node.js, MongoDB, SQL, Operating System, Database Management System, Object-Oriented Programming.
+  <strong>Technical Skills:</strong> C/C++, Java (beginner), Data Structures and Algorithms, HTML, CSS, JavaScript, ReactJS, Material UI, Node.js, MongoDB, SQL, Operating System, Database Management System, Object-Oriented Programming.
+</p>
+
+<p>
+  <strong>Currently Learning:</strong> Java backend frameworks to further enhance my development skills.
 </p>
 
 <div>
